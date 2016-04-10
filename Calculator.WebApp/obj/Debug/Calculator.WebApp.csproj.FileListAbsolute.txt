@@ -1,0 +1,102 @@
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.dll.config
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.pdb
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Antlr3.Runtime.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.AspNet.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.Core.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\EntityFramework.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\System.Web.Optimization.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\System.Web.Providers.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\WebGrease.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\EntityFramework.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.Core.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.AspNet.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.dll
+c:\users\spark2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.pdb
+C:\Users\SPARK2\documents\visual studio 2013\Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.dll.config
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.pdb
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\EntityFramework.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\System.Web.Optimization.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\System.Web.Providers.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\WebGrease.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\EntityFramework.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.dll
+C:\Users\Spark\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.pdb
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.dll.config
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Calculator.WebApp.pdb
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Antlr3.Runtime.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.Core.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\EntityFramework.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\System.Web.Optimization.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\System.Web.Providers.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\WebGrease.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\EntityFramework.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.Core.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.dll
+C:\Users\SPARK2\Dropbox\JustIT\Portfolio\VS Projects\Calculator.WebApp\Calculator.WebApp\obj\Debug\Calculator.WebApp.pdb

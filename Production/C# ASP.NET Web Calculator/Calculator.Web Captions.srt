@@ -1,0 +1,59 @@
+﻿1
+00:00:01,733 --> 00:00:09,699
+This is a quick demo of my recent project an ASP.NET Online Calculator developed in C#.
+
+2
+00:00:09,700 --> 00:00:17,700
+The goal of the project was to convert the desktop version into a web application using ASP.NET technology.
+
+3
+00:00:17,700 --> 00:00:25,533
+In process of building the application I have 
+used C#, ASP.NET, Bootstrap and JavaScript 
+languages.
+
+4
+00:00:25,533 --> 00:00:33,633
+The code from the desktop version was reused in the code behind file in order to build the Logic Layer.
+
+5
+00:00:33,633 --> 00:00:41,966
+As normal the user can perform standard 
+maths including negative and percentage 
+calculations.
+
+6
+00:00:41,966 --> 00:00:50,499
+From security perspective all of the information that the user sets while using the application is encrypted and
+
+7
+00:00:50,500 --> 00:00:59,166
+on each post back of the page the neccessary 
+information is used to complete each operation.
+
+8
+00:00:59,166 --> 00:01:08,432
+On error handling I am using code behind to 
+catch the exception and also JavaScript to 
+notify the user of what options they have.
+
+9
+00:01:08,433 --> 00:01:15,699
+Here speaking of User Experience and providing Responsive Design for the app is hapening through Bootstrap implementation. 
+
+10
+00:01:15,700 --> 00:01:20,733
+Meaning that by changing the size of the display most of the content changes its location on the page for best presentation possible.
+
+11
+00:01:20,733 --> 00:01:25,699
+If this project opened a topic for discussion please do not hesitate to contact me at getintouch@yordan.co.uk
+
+12
+00:01:25,700 --> 00:01:28,866
+or by visitingwww.yordan.co.uk/get-in-touch/
+
+13
+00:01:28,866 --> 00:01:30,966
+Thank you for watching
+
