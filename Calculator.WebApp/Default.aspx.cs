@@ -138,7 +138,7 @@ namespace Calculator.WebApp
         
         protected void buttonClear_Click(object sender, EventArgs e)
         {
-            resultTextBox.Text = "";
+            resultTextBox.Text = "0";
             entryStatusLabel.Text = "";
         }
 
@@ -152,20 +152,25 @@ namespace Calculator.WebApp
                     resultTextBox.Text = resultTextBox.Text.Remove(LastIndex - 1);
                 }
                 catch (ArgumentOutOfRangeException)
-                {
+                {   
+                    resultTextBox.Text = "0";
                     Page.ClientScript.RegisterStartupScript
-                        (this.GetType(), "alert", "alert('Field is cleared! Press OK button to continue with new calculation.');", true);
+                        (this.GetType(), "alert", 
+                        "alert('Field is cleared! Press OK button to continue with a new calculation.');", true);
                 }
             
         }
 
         protected void buttonNegative_Click(object sender, EventArgs e)
-        {
-            Button button = (Button)sender;
-            
+        {           
             if (!resultTextBox.Text.Contains("-"))
             {
-                resultTextBox.Text = button.Text + resultTextBox.Text;
+                resultTextBox.Text = "-" + resultTextBox.Text;
+            }
+            else//else if(resultTextBox.Text.Contains("-"))
+            {
+                resultTextBox.Text.Replace("-","");
+
             }
         }
 
@@ -175,12 +180,6 @@ namespace Calculator.WebApp
             Double currentPercent = Double.Parse(resultTextBox.Text);
             Double percentageGross = currentPercent * 0.01;
             resultTextBox.Text = percentageGross.ToString();
-            
-          
-            //            Double fullNumber = Double.Parse(entryStatusLabel.Text);
-            //            Double percentageOut = fullNumber * percentageGross;
-            //            resultTextBox.Text = percentageOut.ToString();
-            //       
        }
 
         protected void Page_Load(object sender, EventArgs e)
