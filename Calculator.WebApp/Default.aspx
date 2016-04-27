@@ -47,11 +47,11 @@
                     Width="70px" OnClick="buttonNumber_Click" />
             </td>
             <td>
-             <asp:Button ID="buttonDivide" runat="server" Height="50px" Text="/"
+             <asp:Button ID="buttonDivide" runat="server" Height="50px" Text="+"
                     Width="70px" ForeColor="Black" OnClick="buttonDivide_Click" />
             </td>
             <td>
-                <asp:Button ID="buttonNegative" runat="server" Height="50px" Text="-"
+                <asp:Button ID="buttonNegative" runat="server" Height="50px" Text="±"
                     Width="72px" OnClick="buttonNegative_Click" />
                 <asp:Button ID="buttonPercentage" runat="server" Height="50px" Text="%"
                     Width="72px" OnClick="bottonPercentage_Click" />
@@ -71,7 +71,7 @@
                     Width="70px" OnClick="buttonNumber_Click" />
             </td>
             <td>
-                <asp:Button ID="buttonMultiply" runat="server" Height="50px" Text="X"
+                <asp:Button ID="buttonMultiply" runat="server" Height="50px" Text="x"
                     Width="70px" OnClick="buttonMultiply_Click" />
             </td>
             <td>
